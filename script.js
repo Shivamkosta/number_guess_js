@@ -86,7 +86,7 @@ function displayMovies(movies){
 
 /**
  * Sort movies by rank from greatest to smallest 
- * HINT: make sure you are comparing the right value in in if(...)
+ * HINT: make sure you are comparing the right value in  if(...)
  * HINT: replace numbers with movies .
  */
 function sortMoviesByRank(numbers){
